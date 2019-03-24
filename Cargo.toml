@@ -1,0 +1,11 @@
+[package]
+name = "salesforce-client"
+version = "0.1.0"
+authors = ["dan"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9.12"
+serde = "1.0.89"
+serde_derive = "1.0.89"
+serde-aux = "0.6.1"
